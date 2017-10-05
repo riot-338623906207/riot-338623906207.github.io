@@ -1,5 +1,5 @@
 {
-    "default_hs_url": "https://matrix.org",
+    "default_hs_url": "https://tchncs.de",
     "default_is_url": "https://vector.im",
     "brand": "Riot",
     "integrations_ui_url": "https://scalar.vector.im/",
@@ -8,10 +8,10 @@
     "enableLabs": true,
     "roomDirectory": {
         "servers": [
-            "matrix.org"
+            "tchncs.de"
         ]
     },
-    "welcomeUserId": "@riot-bot:matrix.org",
+    "welcomeUserId": "@syndicate:tchncs.de",
     "piwik": {
         "url": "https://piwik.riot.im/",
         "siteId": 1
